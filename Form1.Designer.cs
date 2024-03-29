@@ -76,7 +76,7 @@
             MaximumSize = new Size(700, 400);
             MinimumSize = new Size(700, 400);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Задание 1.2";
             ResumeLayout(false);
             PerformLayout();
         }
